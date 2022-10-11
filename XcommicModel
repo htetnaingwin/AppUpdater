@@ -1,0 +1,46 @@
+
+{
+  "tabs": [
+    "All",
+    "Action",
+    "Adult",
+    "Drama",
+    "Comedy",
+    "Mature",
+    "NTR",
+    "School Life",
+    "Romance",
+    "Seinen",
+    "Harem",
+    "Slice of Life",
+    "Vanilla"
+  ],
+  "path": "https://raw.githubusercontent.com/IXC87/98main98777/main/",
+  "description": [
+    "ကျောင်းသားဘဝ ဇာတ်လမ်းကောင်းများ",
+    "Netorare စီးရီး စုစည်းမှု",
+  "အချစ် ဒရာမာ စီးရီးများ"  
+  ],
+  "sponsor": "",
+  "info_sponsor": "",
+  "parent_filter": {
+    "School": "school",
+    "NTR Collection": "ntr",
+    "Drama Series": "drama"
+
+  },
+
+
+
+ "appLink1": "https://github.com/XCOMIC1/AppCollections/blob/main/XC_PAID3-3.apk?raw=true",
+ "appLink2" : "https://t.me/xcomic_official/546",
+ "dialogMessage" : "
+ဗားရှင်းအသစ်ထွက်ပါပြီ ဒေါင်းလော့ရယူနိုင်ပါပြီ အသစ်က ဗားရှင်းအဟောင်းကို ဖျက်ပြီးမှပဲ တင်လို့ရမှာဖြစ်လို့ Download လုပ်ထားတာတွေကို မဖျက်ချင်ရင် အသစ်ကို မဒေါင်းပါနဲ့ဦး နောက်ရက်ကျရင် ဒေတာရွေ့နည်းပြောပြပါမယ် အဲ့ကျမှ အသစ်သုံးရင်သုံးပါ",
+"isForced" : false,
+ "isServerOn": true,
+ "version": "3.3",
+ "isSetMessage": true,
+ "appOpenMessage":" ဆာဗာခဏပိတ်ထားပါတယ် ဒေတာတွေပေါက်ကြားကုန်လို့ပါ",
+  "appOpenPhoto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd0Od26Moz9oQeO-nYkxmC4ZyYCGCszr6n1pTUvA0AQLYk3dnF5RB0ZLm-2mZRvf9iwEdZn4p1OEULgCLoOKSEwNIB4RcgEDTf43hapAw7jNknLhmJMgkTa9xshqjwWTfX1CrRoztd5W5KIpZ-yzVkp4RlSKmfE5zZC6SbHwK2gn8iOcE9B1xT7PbS/s1600/Screen%20Shot%202022-05-20%20at%205.15.50%20PM.png",
+"appOpenAction": ""
+}
